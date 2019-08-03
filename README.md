@@ -9,7 +9,7 @@
  コントローラ（親機）のプログラム（addon:ofxOsc）
 
 ### PM_slave
- スレーブ（子機）のプログラム (A,B1,B2,C面)（addon:ofxOsc）
+ スレーブ（子機）のプログラム（addon:ofxOsc）
 
 ## --- floor ---
 
