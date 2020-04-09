@@ -21,3 +21,6 @@
 
 ### PM_floor_testcord
  コントローラとOpenFrameworks間の通信を確認するためのテストプログラム
+ 
+ ## --- reference ---
+PM2018引継ぎ資料_ソフト関係.pdfを参照
